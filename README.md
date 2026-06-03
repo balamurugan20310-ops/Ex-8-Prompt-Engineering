@@ -1,22 +1,22 @@
-EX-8- Exploration of Prompting Techniques for Video Generation
+# EX-8- Exploration of Prompting Techniques for Video Generation
 
-Aim:
+## Aim:
 
 To explore and understand various prompting techniques used for generating videos through AI models.
 
-Objective:
+## Objective:
 
 To demonstrate how different prompt structures, such as simple prompts and detailed prompts, affect the quality, coherence, creativity, and style of AI-generated videos.
 
-Explanation:
+## Explanation:
 
 Create different types of prompts for video generation. Generate videos using AI video generation tools. Analyze differences in: Video quality, Scene consistency, Animation style, Motion and transitions, Creativity
 
-Suggested AI Video Generation Tools:
+## Suggested AI Video Generation Tools:
 
 RunwayML, Pika Labs, Synthesia, Kaiber AI, Canva AI Video, Luma AI.
 
-Output:
+## Output:
 The document must contain the following:
 
 Prompts Used 
@@ -29,5 +29,8 @@ Comparison between simple and detailed prompts
 
 Observations and analysis
 
-Result:
+[exp 8 pdf.pdf](https://github.com/user-attachments/files/28541895/exp.8.pdf.pdf)
+
+
+## Result:
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures.
